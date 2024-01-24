@@ -1,0 +1,39 @@
+version: '25'
+
+services:
+  # React frontend (add your frontend configuration)
+  frontend:
+    build:
+      context: /home/dell/Desktop/data/frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  # Express backend
+  backend:
+    build:
+      context: /home/dell/Desktop/data/backend
+    ports:
+      - "5001:5001"
+    depends_on:
+      - solr
+
+  # MySQL backend
+  mysql:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: ecommerce
+      MYSQL_USER: user
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
+
+  # Solr backend
+  solr:
+    image: solr:latest
+    environment:
+      SOLR_CORE: ecommerce
+    ports:
+      - "8983:8983"
