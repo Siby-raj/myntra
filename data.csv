@@ -1,0 +1,36 @@
+UniqueId,Name,MRP,Brand,DiscountPrice,Category,StockAvailable,cid
+10011,T-Shirt,2999,Adidas,1999,Clothing,100,1
+10012,Joggers,4999,Adidas,3999,Clothing,75,1
+10013,Sneakers,7999,Adidas,5999,Shoes,50,1
+10014,Hoodie,3999,Adidas,2999,Clothing,80,1
+10015,Shorts,2499,Adidas,1499,Clothing,120,1
+10016,Cap,1499,Adidas,999,Accessories,150,1
+10017,Track Jacket,5999,Adidas,4999,Clothing,60,1
+10018,Backpack,3499,Adidas,2499,Accessories,90,1
+10019,Soccer Jersey,4499,Adidas,3499,Sports,70,1
+10020,Running Shoes,8999,Adidas,6999,Shoes,40,1
+10001,T-Shirt,3499,Nike,2499,Clothing,90,2
+10002,Joggers,5499,Nike,4499,Clothing,60,2
+10003,Sneakers,8999,Nike,6999,Shoes,45,2
+10004,Hoodie,4999,Nike,3999,Clothing,75,2
+10005,Shorts,2999,Nike,1999,Clothing,110,2
+10006,Cap,1999,Nike,1499,Accessories,130,2
+10007,Track Jacket,6999,Nike,5499,Clothing,50,2
+10008,Backpack,3999,Nike,2999,Accessories,80,2
+10009,Soccer Jersey,4999,Nike,3999,Sports,65,2
+10010,Running Shoes,9999,Nike,7999,Shoes,35,2
+10021,Denim Jeans,5999,Pepe Jeans,4499,Clothing,80,3
+10022,Slim Fit Shirt,3999,Pepe Jeans,2999,Clothing,100,3
+10023,Casual Trousers,4999,Pepe Jeans,3999,Clothing,70,3
+10024,Graphic T-Shirt,2499,Pepe Jeans,1999,Clothing,120,3
+10025,Skinny Jeans,6999,Pepe Jeans,5499,Clothing,60,3
+10026,Beanie Hat,1499,Pepe Jeans,999,Accessories,150,3
+10027,Leather Jacket,8999,Pepe Jeans,7499,Clothing,40,3
+10028,Backpack,3499,Pepe Jeans,2499,Accessories,90,3
+10029,Striped Sweater,4499,Pepe Jeans,3499,Clothing,85,3
+10030,Canvas Sneakers,5499,Pepe Jeans,4499,Shoes,50,3
+10111,Bajaj LED TV,69999,BajajElectricals,59999,Electronics,80,4
+10112,Bajaj Air Cooler,24999,BajajElectricals,19999,Electronics,150,4
+10113,Bajaj Mixer Grinder,7999,BajajElectricals,6999,Electronics,100,4
+10114,Bajaj Iron Box,2999,BajajElectricals,2499,Electronics,200,4
+10115,Bajaj Ceiling Fan,9999,BajajElectricals,8499,Electronics,120,4
